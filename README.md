@@ -7,7 +7,6 @@
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
 - 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH).
-- 🎯 **Goal**: Publishing 5 SCIE papers & Securing a position as a Senior Researcher at National Institutes.
 - 💡 **Philosophy**: Prioritizing **Stability** and **Reliability** in real-world manufacturing systems.
 
 ---
@@ -52,12 +51,11 @@
 
 ---
 
-## 📝 Journals
-
-| Year | Title | Journal | Status |
-| :--- | :--- | :--- | :---: |
-| 2025 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
-| 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | Published |
+### 📝 Journals
+| Year | Title | Journal | Category | IF | Status |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **2.8** | Under Revision |
+| 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | **KCI** | **-** | Published |
 
 ---
 
