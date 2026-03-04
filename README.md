@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ph.D.+Student+at+SKKU;KITECH+Researcher;Vision-Tactile+Fusion+Expert;Sim-to-Real+Specialist" alt="Typing SVG" />
 </p>
 
----
+
+
 
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
