@@ -7,7 +7,7 @@
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
 - 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH).
-- 🎯 **Goal**: Publishing 5 SCIE papers & Securing a position as a Senior Researcher at national institutes.
+- 🎯 **Goal**: Publishing 5 SCIE papers & Securing a position as a Senior Researcher at National Institutes.
 - 💡 **Philosophy**: Prioritizing **Stability** and **Reliability** in real-world manufacturing systems.
 
 ---
@@ -24,13 +24,12 @@
 
 ### 🛠 Tech Stack & AI Models
 
-#### 💻 Programming & Frameworks
+#### 💻 Programming & OS
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-007672?style=flat-square&logo=MathWorks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
 </p>
 
 #### 🧠 AI Models & Robotics Tools
@@ -38,29 +37,46 @@
   <img src="https://img.shields.io/badge/VLA-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Diffusion%20Policy-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAM3-61DAFB?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/DDPG-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+</p>
+
+#### 🏗️ Simulation & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MoveIt-2B2D42?style=flat-square&logo=ROS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=Gazebo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+</p>
+
+#### 🔌 Protocols & DevOps
+<p>
+  <img src="https://img.shields.io/badge/TCP/IP-4285F4?style=flat-square&logo=connectivity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UR%20RTDE-00599C?style=flat-square&logo=Universal-Robots&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
 ---
 
-### 📝 Selected Publications (Journals)
+### 📝 Publications (Journals)
 | Title | Journal | Status |
 | :--- | :---: | :---: |
 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
-| *Title for your upcoming paper* | SCIE Journal | In Progress |
+| *Upcoming Research on Vision-Tactile Fusion* | SCIE | In Progress |
 
 ---
 
 ### 🎙️ Conference Activities
 - 📄 **PRESM 2026**: "Vision–Tactile Real-time Ranking for Safe Contact-Aware Robotic Grasping" (Planned Submission)
-- 🎓 *Ongoing brainstorming for future conferences*
+- 🎓 *Active participation in robotics seminars and workshops*
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subinpy&show_icons=true&theme=radical" alt="Dobby's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subinpy&show_icons=true&theme=radical" alt="Subin's GitHub stats" />
 </p>
 
 ---
