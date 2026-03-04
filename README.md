@@ -32,14 +32,6 @@
   <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
 
-#### 🧠 AI Models & Robotics Tools
-<p>
-  <img src="https://img.shields.io/badge/VLA-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Diffusion%20Policy-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAM3-61DAFB?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DDPG-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-</p>
-
 #### 🏗️ Simulation & Frameworks
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
@@ -64,20 +56,11 @@
 | Title | Journal | Status |
 | :--- | :---: | :---: |
 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
-| *Upcoming Research on Vision-Tactile Fusion* | SCIE | In Progress |
 
 ---
 
 ### 🎙️ Conference Activities
 - 📄 **PRESM 2026**: "Vision–Tactile Real-time Ranking for Safe Contact-Aware Robotic Grasping" (Planned Submission)
-- 🎓 *Active participation in robotics seminars and workshops*
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subinpy&show_icons=true&theme=radical" alt="Subin's GitHub stats" />
-</p>
 
 ---
 
@@ -85,7 +68,6 @@
 <p>
   <a href="mailto:sue4084@skku.edu"><img src="https://img.shields.io/badge/SKKU-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:sue4084@kitech.re.kr"><img src="https://img.shields.io/badge/KITECH-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@subinpy"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 
 ---
