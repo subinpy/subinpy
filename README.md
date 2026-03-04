@@ -1,5 +1,6 @@
-### 🐍 My Contributions Snake
-![snake github contribute](https://raw.githubusercontent.com/subinpy/subinpy/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ph.D.+Student+at+SKKU;KITECH+Researcher;Vision-Tactile+Fusion+Expert;Sim-to-Real+Specialist" alt="Typing SVG" />
+</p>
 
 
 ### 👨‍🔬 About Me
@@ -87,3 +88,8 @@
   <a href="mailto:sue4084@skku.edu"><img src="https://img.shields.io/badge/SKKU-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:sue4084@kitech.re.kr"><img src="https://img.shields.io/badge/KITECH-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+---
+
+### 🐍 My Contributions Snake
+![snake github contribute](https://raw.githubusercontent.com/subinpy/subinpy/output/github-contribution-grid-snake.svg)
