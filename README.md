@@ -1,4 +1,4 @@
-# Hi there, I'm Subin (Dr. Dobby) 👋 🤖
+# Hi there, I'm Subin 🤖
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Robotic%20Grasping%20Researcher&fontSize=50" />
