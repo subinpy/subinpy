@@ -57,34 +57,32 @@
 | Year | Title | Journal | Status |
 | :--- | :--- | :--- | :---: |
 | 2025 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
-| 2025 | **시뮬레이션-실환경 통합 점수 기반 로봇 정책 선택 기법** (Unified Sim-and-Real Scoring Methods) | JKROS | Published |
-| 2024 | **가상 환경에서 실제 환경으로의 전이학습을 위한 머신러닝 기반 3D 공정 시뮬레이션 도구 개발** | IEIE | Published |
+| 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | Published |
 
 ---
 
-## 🎙️ Conference Activities (2024 – 2025)
+## 🎙️ Conference
 
 ### 🌍 International Conferences
 - **ICAR 2025** (International Conference on Advanced Robotics)
   - *Geometry-Driven Graspable Area Extraction with Gripper-Aware Constraints*
+- **ICIR 2025** (International Conference on Intelligent Reality)
+  - *Illy-Net: A GMM based Performance Evaluation Framework for Sim-to-Real Transfer of RL Policies*
 - **PRESM 2025** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
   - *Enhancing Sim2Real Transfer: A Surrogate Approach for Robot Policy Evaluation*
 
+
 ### 🇰🇷 Domestic Conferences
 - **ICROS 2025** (제어로봇시스템학회 학술대회)
-  - *Sim2Real 강화학습 정책 전이를 위한 GMM 기반 성능 평가 프레임워크*
+  - *Reparation A GMM-based Performance Evaluation Framework for Sim2Real Transfer of RL Policies*
 - **KRoC 2025** (한국로봇종합학술대회)
-  - *제조 현장을 위한 로봇 기술: Sim2Real 과 강화학습 기반 접근법 분석*
+  - *Robot Technology for Manufacturing: Analysis of Sim2Real and Reinforcement Learning-Based Approaches*
 - **KSPE 2025 Spring** (한국정밀공학회 춘계학술대회)
   - *Sim2Real Transfer Approach for Robotics Policy Evaluation through Simulation & Real-World Experiments*
 - **ICROS-KROS 2024** (호남·제주 그랜드 합동 학술대회)
-  - *Sim2Real 기반 3D 인식 기술을 활용한 제조 현장 로봇 시뮬레이션 도구 개발*
-
----
-
-## 🚀 Future Research & Plans
-- 📄 **PRESM 2026**: "Vision–Tactile Real-time Ranking for Safe Contact-Aware Robotic Grasping" (In Preparation)
-- 🎯 **Goal**: Achieving 5 SCIE publications during the Ph.D. course at Sungkyunkwan Univ.
+  - *Development of Robotic Simulation Tool for Manufacturing Sites Utilizing Sim2Real-based 3D Perception Technology*
+- **IEIE 2024** (전자공학회 추계학술대회)
+  - *Development of a 3D Process Simulation Tool Using Robots for Sim2Real Learning*
 
 ---
 
@@ -92,9 +90,4 @@
 <p>
   <a href="mailto:sue4084@skku.edu"><img src="https://img.shields.io/badge/SKKU-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:sue4084@kitech.re.kr"><img src="https://img.shields.io/badge/KITECH-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
----
-<p align="center">
-  <i>"Iterating until the robot achieves 99.9% stability." - Jemi (AI Research Partner)</i>
 </p>
