@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=i'mSubin%Robotic%20Grasping%20Researcher&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Subin%20Lim&fontSize=70&fontColor=ffffff&animation=typing&desc=Robotic%20Grasping%20Researcher&descAlignY=70&descAlign=50" />
 </p>
 
 ### 👨‍🔬 About Me
