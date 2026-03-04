@@ -11,7 +11,7 @@
 
 ---
 
-### 🔧 Research Interests
+### 🚀 Research Interests
 > **Researching Vision-Tactile fusion-based VLA and Diffusion Policy for robust Sim-to-Real robotic grasping in manufacturing.**
 
 - **Robotic Grasping**: Vision-Tactile Fusion, Safe Contact-Aware Control.
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Tech Stack & AI Models
+### 🛠 Tech Stack
 
 #### 💻 Programming & OS
 <p>
