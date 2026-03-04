@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Dr.%20Dobby&fontSize=60&animation=fadeIn&desc=Vision-Tactile%20Fusion%20Expert&descAlignY=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ph.D.+Student+at+SKKU;KITECH+Researcher;Vision-Tactile+Fusion+Expert;Sim-to-Real+Specialist" alt="Typing SVG" />
 </p>
 
 ### 👨‍🔬 About Me
