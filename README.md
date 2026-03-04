@@ -84,7 +84,7 @@
 
 ---
 
-### 📫 Contact & Links
+### 📫 Contact
 <p>
   <a href="mailto:sue4084@skku.edu"><img src="https://img.shields.io/badge/SKKU-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:sue4084@kitech.re.kr"><img src="https://img.shields.io/badge/KITECH-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
