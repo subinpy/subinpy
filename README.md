@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github-raw-cors-proxy.herokuapp.com/https://github.com/subinpy/subinpy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://k-tech-fast-storage.s3.ap-northeast-2.amazonaws.com/static/images/divider.gif" width="100%" />
 </p>
-
 
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
