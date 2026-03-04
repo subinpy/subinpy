@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://k-tech-fast-storage.s3.ap-northeast-2.amazonaws.com/static/images/divider.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Ph.D.+Student+at+SKKU;KITECH+Researcher;Vision-Tactile+Fusion+Expert;Sim-to-Real+Specialist" alt="Typing SVG" />
 </p>
+
 
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
