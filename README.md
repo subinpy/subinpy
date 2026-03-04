@@ -7,7 +7,7 @@
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at Sungkyunkwan University (SKKU), Dept. of Intelligent Robotics (Starting March 2026).
 - 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH).
-- 💡 **Philosophy**: Prioritizing **Stability** and **Reliability** in real-world manufacturing systems.
+- 💡 **Philosophy**: Prioritizing Stability and Reliability in real-world manufacturing systems.
 
 ---
 
