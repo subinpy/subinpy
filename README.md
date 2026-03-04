@@ -52,15 +52,39 @@
 
 ---
 
-### 📝 Publications (Journals)
-| Title | Journal | Status |
-| :--- | :---: | :---: |
-| **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
+## 📝 Journals
+
+| Year | Title | Journal | Status |
+| :--- | :--- | :--- | :---: |
+| 2025 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | Under Revision |
+| 2025 | **시뮬레이션-실환경 통합 점수 기반 로봇 정책 선택 기법** (Unified Sim-and-Real Scoring Methods) | JKROS | Published |
+| 2024 | **가상 환경에서 실제 환경으로의 전이학습을 위한 머신러닝 기반 3D 공정 시뮬레이션 도구 개발** | IEIE | Published |
 
 ---
 
-### 🎙️ Conference Activities
-- 📄 **PRESM 2026**: "Vision–Tactile Real-time Ranking for Safe Contact-Aware Robotic Grasping" (Planned Submission)
+## 🎙️ Conference Activities (2024 – 2025)
+
+### 🌍 International Conferences
+- **ICAR 2025** (International Conference on Advanced Robotics)
+  - *Geometry-Driven Graspable Area Extraction with Gripper-Aware Constraints*
+- **PRESM 2025** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
+  - *Enhancing Sim2Real Transfer: A Surrogate Approach for Robot Policy Evaluation*
+
+### 🇰🇷 Domestic Conferences
+- **ICROS 2025** (제어로봇시스템학회 학술대회)
+  - *Sim2Real 강화학습 정책 전이를 위한 GMM 기반 성능 평가 프레임워크*
+- **KRoC 2025** (한국로봇종합학술대회)
+  - *제조 현장을 위한 로봇 기술: Sim2Real 과 강화학습 기반 접근법 분석*
+- **KSPE 2025 Spring** (한국정밀공학회 춘계학술대회)
+  - *Sim2Real Transfer Approach for Robotics Policy Evaluation through Simulation & Real-World Experiments*
+- **ICROS-KROS 2024** (호남·제주 그랜드 합동 학술대회)
+  - *Sim2Real 기반 3D 인식 기술을 활용한 제조 현장 로봇 시뮬레이션 도구 개발*
+
+---
+
+## 🚀 Future Research & Plans
+- 📄 **PRESM 2026**: "Vision–Tactile Real-time Ranking for Safe Contact-Aware Robotic Grasping" (In Preparation)
+- 🎯 **Goal**: Achieving 5 SCIE publications during the Ph.D. course at Sungkyunkwan Univ.
 
 ---
 
