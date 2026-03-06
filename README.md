@@ -8,12 +8,14 @@
 - 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH).
 - 💡 **Philosophy**: Prioritizing Stability and Reliability in real-world manufacturing systems.
 
-### 🏢 Affiliations & Collaboration
-[![SKKU](https://img.shields.io/badge/Sungkyunkwan_University-Graduate_School-800000?style=flat-square&logo=academia&logoColor=white)](https://rise.skku.edu)
-[![KITECH](https://img.shields.io/badge/KITECH-Collaborative_Researcher-005BAC?style=flat-square)](https://www.kitech.re.kr/main/main.php)
+### 🎓 Professional Background
 
-* **Ph.D. Student** at [Intelligent Robotics, SKKU](https://rise.skku.edu)
-* **Researcher** at [Korea Institute of Industrial Technology (KITECH)](https://www.kitech.re.kr/main/main.php)
+| Institution | Role | Research Field |
+| :--- | :--- | :--- |
+| **[SKKU](https://rise.skku.edu)** | Ph.D. Student | Intelligent Robotics |
+| **[KITECH](https://www.kitech.re.kr/main/main.php)** | Collaborative Researcher | Precision Manufacturing |
+
+> *"Focusing on the **Stability** and **Reliability** of Robotic Systems."*
 
 
 ---
