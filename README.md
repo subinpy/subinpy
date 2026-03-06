@@ -6,8 +6,6 @@
 ### 👨‍🔬 About Me
 - 🎓 **Ph.D. Student** at [Sungkyunkwan University (SKKU) RISE LAB](https://rise.skku.edu), Dept. of Intelligent Robotics (Starting March 2026).
 - 🏢 **Collaborative Researcher** at [Korea Institute of Industrial Technology (KITECH)](https://www.kitech.re.kr/main/main.php) (Since March 2024).
-- 💡 **Philosophy**: Prioritizing Deterministic Stability and Industrial-grade Reliability for real-world robotic grasping systems.
-
 
 
 ---
