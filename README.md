@@ -53,7 +53,7 @@
 ### 📝 Journals
 | Year | Title | Journal | Category | IF | Status |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **2.8** | Under Revision |
+| 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **2.8** | Accept |
 | 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | **KCI** | **-** | Published |
 
 ---
