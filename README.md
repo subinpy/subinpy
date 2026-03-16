@@ -61,6 +61,8 @@
 ## 🎙️ Conference
 
 ### 🌍 International Conferences
+- **PRESM 2026** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
+  - *Real-Time Re-Grasp Model: Contact-Aware Robotic Grasping Via Visual-Tactile Fusion Perception*
 - **ICAR 2025** (International Conference on Advanced Robotics)
   - *Geometry-Driven Graspable Area Extraction with Gripper-Aware Constraints*
 - **ICIR 2025** (International Conference on Intelligent Reality)
@@ -70,6 +72,8 @@
 
 
 ### 🇰🇷 Domestic Conferences
+- **KSPE 2026** (한국정밀공학회 춘계학술대회)
+  - *Multimodal Sensor Fusion for Reliable Robotic Grasping in Precision Manufacturing: A Review of Stability Evaluation and Incipient Slip Prediction*
 - **ICROS 2025** (제어로봇시스템학회 학술대회)
   - *Reparation A GMM-based Performance Evaluation Framework for Sim2Real Transfer of RL Policies*
 - **KRoC 2025** (한국로봇종합학술대회)
