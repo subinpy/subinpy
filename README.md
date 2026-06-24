@@ -62,7 +62,7 @@
 
 ### 🌍 International Conferences
 - **PRESM 2026** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
-  - 🏆 Best Paper Award
+  - 🏆 Best Paper Award at PRESM 2026.
   - *Real-Time Re-Grasp Model: Contact-Aware Robotic Grasping Via Visual-Tactile Fusion Perception*
 - **ICAR 2025** (International Conference on Advanced Robotics)
   - *Geometry-Driven Graspable Area Extraction with Gripper-Aware Constraints*
