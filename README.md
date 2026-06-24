@@ -5,8 +5,8 @@
 
 ### 🧑🏻‍💻 About Me
 - 🎓 **Ph.D. Student** at [Sungkyunkwan University (SKKU) RISE LAB](https://rise.skku.edu), Dept. of Intelligent Robotics (Starting March 2026).
-- 🏢 **Collaborative Researcher** at [Korea Institute of Industrial Technology (KITECH)](https://www.kitech.re.kr/main/main.php) (Since March 2024).
-
+- 🎓 M.S. in Mechanical Engineering, Sungkyunkwan University
+- 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH) (Since March 2024)
 
 ---
 
@@ -53,7 +53,7 @@
 ### 📝 Journals
 | Year | Title | Journal | Category | IF | Status |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **3.6** | Published |
+| 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **3.9** | Published |
 | 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | **KCI** | **-** | Published |
 
 ---
@@ -62,6 +62,7 @@
 
 ### 🌍 International Conferences
 - **PRESM 2026** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
+  - 🏆 Best Paper Award
   - *Real-Time Re-Grasp Model: Contact-Aware Robotic Grasping Via Visual-Tactile Fusion Perception*
 - **ICAR 2025** (International Conference on Advanced Robotics)
   - *Geometry-Driven Graspable Area Extraction with Gripper-Aware Constraints*
