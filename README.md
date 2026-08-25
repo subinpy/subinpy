@@ -6,7 +6,7 @@
 ### 🧑🏻‍💻 About Me
 - 🎓 **Ph.D. Student** at [Sungkyunkwan University (SKKU) RISE LAB](https://rise.skku.edu), Dept. of Intelligent Robotics (Starting March 2026).
 - 🎓 **M.S.** in Mechanical Engineering, Sungkyunkwan University
-- 🏢 **Collaborative Researcher** at Korea Institute of Industrial Technology (KITECH) (Since March 2024)
+- 🏢 **Researcher** at Korea Institute of Industrial Technology (KITECH) (Since March 2024)
 
 ---
 
