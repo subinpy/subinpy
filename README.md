@@ -53,6 +53,7 @@
 ### 📝 Journals
 | Year | Title | Journal | Category | IF | Status |
 | :--- | :--- | :---: | :---: | :---: | :---: |
+| 2026 | **Trends in Tactile Feedback-based Grasp Intelligence and Applications in Precision Manufacturing** | JKSPE | **KCI** | **-** | Published |
 | 2026 | **Illy-Net: A Data-Efficient Surrogate-Based Framework for Sim-to-Real Policy Ranking** | IJPEM | **SCIE** | **3.9** | Published |
 | 2025 | **Unified Sim-and-Real Scoring Methods for Robot Policy Selection** | JKROS | **KCI** | **-** | Published |
 
@@ -61,6 +62,8 @@
 ## 🎙️ Conference
 
 ### 🌍 International Conferences
+- **ICCAS 2026** (International Conference on Control, Automation and Systems)
+  - *Characterizing Hard-to-Automate Manufacturing Processes for Robotic Automation: Data-Driven Difficulty Factors and a Mapping to Robot Technologies*
 - **PRESM 2026** (Int. Conf. on Precision Engineering and Sustainable Manufacturing)
   - 🏆 Best Paper Award at PRESM 2026.
   - *Real-Time Re-Grasp Model: Contact-Aware Robotic Grasping Via Visual-Tactile Fusion Perception*
